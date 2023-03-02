@@ -1,0 +1,25 @@
+body
+{
+    text-align: center;
+    background-color: aquamarine;
+}
+h1
+{
+    font-size: 50px;
+}
+h3
+{
+    font-size: 40px;
+}
+#input
+{
+    font-size: 30px;
+}
+#number
+{
+    font-size: 40px;
+}
+#submit
+{
+    font-size: 40px;
+}
