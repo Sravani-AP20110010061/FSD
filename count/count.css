@@ -1,0 +1,19 @@
+body
+{
+    text-align: center;
+    font-size: 40px;
+    background-color: pink;
+    
+}
+#increase
+{
+    font-size: 30px;
+}
+#decrease
+{
+    font-size: 30px;
+}
+#reset
+{
+    font-size: 30px;
+}
