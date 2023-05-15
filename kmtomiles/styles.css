@@ -1,0 +1,13 @@
+#convert
+{
+    color: white;
+    background-color: rgba(12, 106, 220, 0.868);
+    border-radius: 4px;
+    border-color:whitesmoke;
+}
+
+#text
+{
+    font-size: 12px;
+    color: gray;
+}
